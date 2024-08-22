@@ -1,0 +1,15 @@
+transformers
+torch      
+datasets
+accelerate
+optuna
+scikit-learn
+sentencepiece
+nvidia-apex  
+wandb       
+tensorboard 
+pandas
+numpy
+tqdm
+peft
+bitsandbytes
